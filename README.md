@@ -1,4 +1,4 @@
-# data_analysis
+# Data_analysis
 
 ## Encoding the categorical features to numeric quantities
 
