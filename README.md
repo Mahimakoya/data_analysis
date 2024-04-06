@@ -28,7 +28,7 @@ To execute the tests and confirm the project's functionality:
 
 ### Breakdown of Tests
 
-- The code contains a number of tests, including data filtering on the basis of particular years, and data analysis jobs on video game sales data.
+- The code contains a number of tests, including data filtering on the basis of particular years, and data analysis jobs on Automotive data.
 
 ## Deployment
 
